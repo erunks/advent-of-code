@@ -1,12 +1,11 @@
 name: day_1
-version: 0.1.0
+version: 1.0.0
 
 authors:
   - Edward Runkel <eddierunkel@gmail.com>
 
 targets:
-  day_1:
-    main: src/day_1.cr
+  main: src/main.cr
 
 crystal: 1.6.2
 
